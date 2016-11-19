@@ -8,11 +8,17 @@ namespace RomanKata
         public string ToRoman(int number)
         {
             var result = new StringBuilder();
-            for (int i = 0; i < number; i++)
+            if (number == 4)
             {
-                result.Append("I");
+                result.Append("IV");
             }
-           
+            else
+            {
+                for (int i = 0; i < number; i++)
+                {
+                    result.Append("I");
+                }
+            }
             return result.ToString();
         }
 
