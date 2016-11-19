@@ -1,0 +1,7 @@
+C:\Code\CSharpKatas\BowlingKata\bin\Debug\BowlingKata.dll
+C:\Code\CSharpKatas\BowlingKata\bin\Debug\BowlingKata.pdb
+C:\Code\CSharpKatas\BowlingKata\bin\Debug\nunit.framework.dll
+C:\Code\CSharpKatas\BowlingKata\bin\Debug\nunit.framework.xml
+C:\Code\CSharpKatas\BowlingKata\obj\Debug\BowlingKata.csprojResolveAssemblyReference.cache
+C:\Code\CSharpKatas\BowlingKata\obj\Debug\BowlingKata.dll
+C:\Code\CSharpKatas\BowlingKata\obj\Debug\BowlingKata.pdb

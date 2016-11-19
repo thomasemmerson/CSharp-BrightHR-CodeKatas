@@ -1,0 +1,7 @@
+C:\Code\CSharpKatas\RomanKata\bin\Debug\RomanKata.dll
+C:\Code\CSharpKatas\RomanKata\bin\Debug\RomanKata.pdb
+C:\Code\CSharpKatas\RomanKata\bin\Debug\nunit.framework.dll
+C:\Code\CSharpKatas\RomanKata\bin\Debug\nunit.framework.xml
+C:\Code\CSharpKatas\RomanKata\obj\Debug\RomanKata.csprojResolveAssemblyReference.cache
+C:\Code\CSharpKatas\RomanKata\obj\Debug\RomanKata.dll
+C:\Code\CSharpKatas\RomanKata\obj\Debug\RomanKata.pdb

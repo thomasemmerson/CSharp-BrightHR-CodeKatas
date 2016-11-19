@@ -1,0 +1,6 @@
+C:\Code\CSharpKatas\SweetAssKata\bin\Debug\SweetAssKata.dll
+C:\Code\CSharpKatas\SweetAssKata\bin\Debug\SweetAssKata.pdb
+C:\Code\CSharpKatas\SweetAssKata\bin\Debug\nunit.framework.dll
+C:\Code\CSharpKatas\SweetAssKata\bin\Debug\nunit.framework.xml
+C:\Code\CSharpKatas\SweetAssKata\obj\Debug\SweetAssKata.dll
+C:\Code\CSharpKatas\SweetAssKata\obj\Debug\SweetAssKata.pdb

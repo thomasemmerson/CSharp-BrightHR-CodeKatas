@@ -1,0 +1,6 @@
+C:\Code\CSharpKatas\StringCalcKata\bin\Debug\StringCalcKata.dll
+C:\Code\CSharpKatas\StringCalcKata\bin\Debug\StringCalcKata.pdb
+C:\Code\CSharpKatas\StringCalcKata\bin\Debug\nunit.framework.dll
+C:\Code\CSharpKatas\StringCalcKata\bin\Debug\nunit.framework.xml
+C:\Code\CSharpKatas\StringCalcKata\obj\Debug\StringCalcKata.dll
+C:\Code\CSharpKatas\StringCalcKata\obj\Debug\StringCalcKata.pdb
